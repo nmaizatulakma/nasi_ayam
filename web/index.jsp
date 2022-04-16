@@ -52,7 +52,7 @@
 
                 <nav id="navbar" class="navbar order-last order-lg-0">
                     <ul>
-                        <li><a class="nav-link scrollto active" href="#hero">Homeeee</a></li>
+                        <li><a class="nav-link scrollto active" href="#hero">Homa</a></li>
                         <li><a class="nav-link scrollto" href="#about">About</a></li>
                         <li><a class="nav-link scrollto" href="#menu">Menu</a></li>
                         
